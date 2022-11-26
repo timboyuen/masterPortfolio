@@ -1,6 +1,14 @@
 <p align="center"> 
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
+<hr/>
+<h1 align="center"> Modifications to template by Timbo Yuen</h1>
+<hr/>
+
+# Installation Reminders
+
+After installing react-js and javascript, nodejs, and npm, I have encountered an issue with building when using `npm install` and `npm start`.
+To fix this issue, use the following command, which have worked for me.
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>

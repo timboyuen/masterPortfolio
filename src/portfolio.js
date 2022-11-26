@@ -2,24 +2,24 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Timbo Yuen's Portfolio Website",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "An experienced softwar engineer with electronics engineering education.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Timbo Yuen Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://timboyuen.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Timbo Yuen",
   logo_name: "AshutoshHathidara",
   nickname: "layman_brother",
   subTitle:
