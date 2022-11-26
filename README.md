@@ -16,8 +16,13 @@ export NODE_OPTIONS=--openssl-legacy-provider
 
 The favicons located in ./public/icons/ are generated from https://www.favicon-generator.org/ using my own personal profile picture.
 
+To build
+`npm run build` for a production build into the ./build folder
+`npm run deploy` builds a production build and then pushes it to the gh-pages branch
+
 # TODO:
 
+- Fix timboyuen.com and gh-pages (timboyuen.github.io)
 - Adsense (done)
 - Google Ads Tag
 - Google Analytics Tag
