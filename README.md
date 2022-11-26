@@ -8,7 +8,13 @@
 # Installation Reminders
 
 After installing react-js and javascript, nodejs, and npm, I have encountered an issue with building when using `npm install` and `npm start`.
-To fix this issue, use the following command, which have worked for me.
+To fix this issue, use the following command, which have worked for me. Maybe it will complain about the digital envelope, then use the following before `npm start`.
+
+```node
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+
+<hr/>
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
