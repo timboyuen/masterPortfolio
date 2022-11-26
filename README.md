@@ -14,7 +14,13 @@ To fix this issue, use the following command, which have worked for me. Maybe it
 export NODE_OPTIONS=--openssl-legacy-provider
 ```
 
-<hr/>
+The favicons located in ./public/icons/ are generated from https://www.favicon-generator.org/ using my own personal profile picture.
+
+# TODO:
+
+- Adsense (done)
+- Google Ads Tag
+- Google Analytics Tag
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
