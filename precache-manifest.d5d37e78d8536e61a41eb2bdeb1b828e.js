@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6fe52b68b1ee83f34672",
+    "revision": "a4672eb81e1973b322c0",
     "url": "./static/css/main.3383f8b9.chunk.css"
   },
   {
-    "revision": "6fe52b68b1ee83f34672",
-    "url": "./static/js/main.6fe52b68.chunk.js"
+    "revision": "a4672eb81e1973b322c0",
+    "url": "./static/js/main.a4672eb8.chunk.js"
   },
   {
     "revision": "dd0d399bb42e5b58905e",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "./static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "4457817ac2b9993c65e81aa05828fe9c",
+    "url": "./static/media/GoogleSans-Bold.4457817a.ttf"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
@@ -28,16 +32,12 @@ self.__precacheManifest = [
     "url": "./static/media/GoogleSans-BoldItalic.90773b61.ttf"
   },
   {
-    "revision": "4457817ac2b9993c65e81aa05828fe9c",
-    "url": "./static/media/GoogleSans-Bold.4457817a.ttf"
+    "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
+    "url": "./static/media/GoogleSans-Italic.0ecddcde.ttf"
   },
   {
     "revision": "8d57e4014b18edef070d285746485115",
     "url": "./static/media/GoogleSans-Medium.8d57e401.ttf"
-  },
-  {
-    "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
-    "url": "./static/media/GoogleSans-Italic.0ecddcde.ttf"
   },
   {
     "revision": "8fd3737925e83c87d78a13700ccf9a62",
@@ -188,16 +188,20 @@ self.__precacheManifest = [
     "url": "./static/media/ui_ux_design.d6363089.svg"
   },
   {
-    "revision": "cccc9d29470e879e40eb70249d9a2705",
-    "url": "./static/media/fa-brands-400.cccc9d29.woff2"
-  },
-  {
     "revision": "5063b105c7646c8043d58c5289f02cca",
     "url": "./static/media/fa-brands-400.5063b105.eot"
   },
   {
+    "revision": "cccc9d29470e879e40eb70249d9a2705",
+    "url": "./static/media/fa-brands-400.cccc9d29.woff2"
+  },
+  {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
     "url": "./static/media/fa-brands-400.c5e0f14f.woff"
+  },
+  {
+    "revision": "06147b6cd88c7346cecd1edd060cd5de",
+    "url": "./static/media/fa-brands-400.06147b6c.ttf"
   },
   {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
@@ -216,12 +220,12 @@ self.__precacheManifest = [
     "url": "./static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "06147b6cd88c7346cecd1edd060cd5de",
-    "url": "./static/media/fa-brands-400.06147b6c.ttf"
-  },
-  {
     "revision": "e647ddbb6d95cb01deac07ffafb2a085",
     "url": "./static/media/fa-regular-400.e647ddbb.svg"
+  },
+  {
+    "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
+    "url": "./static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
@@ -230,10 +234,6 @@ self.__precacheManifest = [
   {
     "revision": "333bae208dc363746961b234ff6c2500",
     "url": "./static/media/fa-solid-900.333bae20.woff"
-  },
-  {
-    "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
-    "url": "./static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
     "revision": "0bff33a5fd7ec390235476b4859747a0",
@@ -248,7 +248,7 @@ self.__precacheManifest = [
     "url": "./static/media/fa-solid-900.424c59fb.svg"
   },
   {
-    "revision": "0fcb7d4da239289669f23bb4017f12f8",
+    "revision": "1049415cf5b9c0cf21cd53c651547dce",
     "url": "./index.html"
   }
 ];
