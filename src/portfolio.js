@@ -203,39 +203,15 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/Tranc3r?hr_r=1",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
+      siteName: "LeetCode",
+      iconifyClassname: "simple-icons:leetcode",
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://leetcode.com/Tranc3r/",
     },
   ],
 };
@@ -245,15 +221,15 @@ const degrees = {
     {
       title: "Simon Fraser University, Burnaby, BC, Canada",
       subtitle: "BASc in Electronics Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      logo_path: "SFU-block-logo.svg",
+      alt_name: "SFU",
+      duration: "2012",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "➔ I have made a hardware NTSC live decoder circuit for oscilloscope, GPS bicycle computer with sensor fusion, message ferrying algorithm simulated in OPNET",
+        "➔ I have studied theoretical physics and systems modelling.",
+        "➔ Apart from the main path, I have studied basic software engineering subjects like Data Structures, Algorithms, and Computing Fundamentals.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.sfu.ca/engineering/home.html",
     },
   ],
 };

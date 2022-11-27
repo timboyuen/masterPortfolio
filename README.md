@@ -20,6 +20,8 @@ To build
 `npm run build` for a production build into the ./build folder
 `npm run deploy` builds a production build and then pushes it to the gh-pages branch
 
+To convert SVG to JS files, use this helpful site `https://svg2jsx.com/`
+
 # TODO:
 
 - Fix timboyuen.com and gh-pages (timboyuen.github.io)
@@ -27,6 +29,7 @@ To build
 - Google Ads Tag
 - Google Analytics Tag
 
+<hr/>
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
