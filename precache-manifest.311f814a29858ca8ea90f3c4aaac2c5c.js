@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "449c9c56c8cf9c082ffa",
-    "url": "./static/css/main.6834fd62.chunk.css"
+    "revision": "357523062c8cf82fd878",
+    "url": "./static/css/main.f1e8d47f.chunk.css"
   },
   {
-    "revision": "449c9c56c8cf9c082ffa",
-    "url": "./static/js/main.449c9c56.chunk.js"
+    "revision": "357523062c8cf82fd878",
+    "url": "./static/js/main.35752306.chunk.js"
   },
   {
-    "revision": "e1feec00244bcd9031a9",
-    "url": "./static/js/1.e1feec00.chunk.js"
+    "revision": "11d41318f17ca9c5e6a1",
+    "url": "./static/js/1.11d41318.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
@@ -50,10 +50,6 @@ self.__precacheManifest = [
   {
     "revision": "4e94a59e939121c26e46168ad1668374",
     "url": "./static/media/SFU-block-logo.4e94a59e.svg"
-  },
-  {
-    "revision": "3d00b79fed05b640294d7c39639f0f11",
-    "url": "./static/media/SFU-block-logo.svg:Zone.3d00b79f.Identifier"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -100,6 +96,10 @@ self.__precacheManifest = [
     "url": "./static/media/education.3bab7a9d.svg"
   },
   {
+    "revision": "e92055b2c748dedf749ef4b193e9813e",
+    "url": "./static/media/ericsson_logo.e92055b2.png"
+  },
+  {
     "revision": "a00ede3f70759480e81f14f203edaa51",
     "url": "./static/media/experience.a00ede3f.svg"
   },
@@ -138,6 +138,14 @@ self.__precacheManifest = [
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "./static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "722e1aee9b6b51eb6267339efed99176",
+    "url": "./static/media/irc_logo.722e1aee.jpg"
+  },
+  {
+    "revision": "fd047f20279f557d8ffae91a2ec65c65",
+    "url": "./static/media/irc_logo.jpg:Zone.fd047f20.Identifier"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
@@ -192,6 +200,10 @@ self.__precacheManifest = [
     "url": "./static/media/talksCardBackAlt.3fa54242.svg"
   },
   {
+    "revision": "4d1bd7ec0a7bb86b15235f98494175b9",
+    "url": "./static/media/tgcorps_logo_sample.4d1bd7ec.png"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
   },
@@ -224,10 +236,6 @@ self.__precacheManifest = [
     "url": "./static/media/fa-regular-400.c4f508e7.woff"
   },
   {
-    "revision": "65b286af947c0d982ca01b40e1fcab38",
-    "url": "./static/media/fa-regular-400.65b286af.ttf"
-  },
-  {
     "revision": "e647ddbb6d95cb01deac07ffafb2a085",
     "url": "./static/media/fa-regular-400.e647ddbb.svg"
   },
@@ -238,6 +246,10 @@ self.__precacheManifest = [
   {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
     "url": "./static/media/fa-solid-900.44d537ab.woff2"
+  },
+  {
+    "revision": "65b286af947c0d982ca01b40e1fcab38",
+    "url": "./static/media/fa-regular-400.65b286af.ttf"
   },
   {
     "revision": "333bae208dc363746961b234ff6c2500",
@@ -256,7 +268,7 @@ self.__precacheManifest = [
     "url": "./static/media/fa-solid-900.424c59fb.svg"
   },
   {
-    "revision": "a9cf86a327426602228fea4a724bd632",
+    "revision": "5da4be5bf864589666057f49c12bf1f4",
     "url": "./index.html"
   }
 ];
