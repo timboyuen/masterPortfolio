@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "a4672eb81e1973b322c0",
-    "url": "./static/css/main.3383f8b9.chunk.css"
+    "revision": "449c9c56c8cf9c082ffa",
+    "url": "./static/css/main.6834fd62.chunk.css"
   },
   {
-    "revision": "a4672eb81e1973b322c0",
-    "url": "./static/js/main.a4672eb8.chunk.js"
+    "revision": "449c9c56c8cf9c082ffa",
+    "url": "./static/js/main.449c9c56.chunk.js"
   },
   {
-    "revision": "dd0d399bb42e5b58905e",
-    "url": "./static/js/1.dd0d399b.chunk.js"
+    "revision": "e1feec00244bcd9031a9",
+    "url": "./static/js/1.e1feec00.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "./static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "4457817ac2b9993c65e81aa05828fe9c",
-    "url": "./static/media/GoogleSans-Bold.4457817a.ttf"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "4457817ac2b9993c65e81aa05828fe9c",
+    "url": "./static/media/GoogleSans-Bold.4457817a.ttf"
   },
   {
     "revision": "90773b6158663ab0fe78b32680733677",
@@ -46,6 +46,14 @@ self.__precacheManifest = [
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "4e94a59e939121c26e46168ad1668374",
+    "url": "./static/media/SFU-block-logo.4e94a59e.svg"
+  },
+  {
+    "revision": "3d00b79fed05b640294d7c39639f0f11",
+    "url": "./static/media/SFU-block-logo.svg:Zone.3d00b79f.Identifier"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -248,7 +256,7 @@ self.__precacheManifest = [
     "url": "./static/media/fa-solid-900.424c59fb.svg"
   },
   {
-    "revision": "1049415cf5b9c0cf21cd53c651547dce",
+    "revision": "a9cf86a327426602228fea4a724bd632",
     "url": "./index.html"
   }
 ];
