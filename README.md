@@ -24,6 +24,7 @@ To convert SVG to JS files, use this helpful site `https://svg2jsx.com/`
 
 # TODO:
 
+- Merge experience and education into one page. And uncollapse them. Then perhaps merge everything else onto home page, uncollapse them, allow other contact me as a button on home
 - Fix timboyuen.com and gh-pages (timboyuen.github.io)
 - Adsense (done)
 - Google Ads Tag

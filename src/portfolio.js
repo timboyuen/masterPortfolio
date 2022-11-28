@@ -323,7 +323,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "These are some of the projects that I have open-sourced and shared with the public.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -336,46 +336,14 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
+    /*     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
       url:
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+    }, */
   ],
 };
 
@@ -385,25 +353,24 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "prof_timboyuen.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Feel free to message me anything related to VR/AR development, C/C++, SFU, Electronics or Physics, ffmpeg or Data Structures/Algorithms.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Project Communication Spaces",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+      "Coming Soon! It will be for mostly educational spaces and memes with discussion interaction",
+    link: "https://www.timboyuen.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    title: "Location",
+    subtitle: "Vancouver, BC, Canada",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/9KDYpNquTQpNPRkz8",
   },
   phoneSection: {
-    title: "Phone Number",
-    subtitle: "+91 8320758513",
+    title: "E-Mail",
+    subtitle: "timboyuen123@gmail.com",
   },
 };
 
