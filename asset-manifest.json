@@ -1,9 +1,9 @@
 {
-  "main.css": "./static/css/main.f1e8d47f.chunk.css",
-  "main.js": "./static/js/main.35752306.chunk.js",
-  "main.js.map": "./static/js/main.35752306.chunk.js.map",
-  "static/js/1.11d41318.chunk.js": "./static/js/1.11d41318.chunk.js",
-  "static/js/1.11d41318.chunk.js.map": "./static/js/1.11d41318.chunk.js.map",
+  "main.css": "./static/css/main.58f0f84b.chunk.css",
+  "main.js": "./static/js/main.9beb7aa0.chunk.js",
+  "main.js.map": "./static/js/main.9beb7aa0.chunk.js.map",
+  "static/js/1.18811aac.chunk.js": "./static/js/1.18811aac.chunk.js",
+  "static/js/1.18811aac.chunk.js.map": "./static/js/1.18811aac.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/index.css": "./static/media/GoogleSans-Regular.b5c77a6a.ttf",
@@ -48,8 +48,8 @@
   "static/media/tgcorps_logo_sample.png": "./static/media/tgcorps_logo_sample.4d1bd7ec.png",
   "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
   "static/media/all.css": "./static/media/fa-solid-900.424c59fb.svg",
-  "static/css/main.f1e8d47f.chunk.css.map": "./static/css/main.f1e8d47f.chunk.css.map",
+  "static/css/main.58f0f84b.chunk.css.map": "./static/css/main.58f0f84b.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.311f814a29858ca8ea90f3c4aaac2c5c.js": "./precache-manifest.311f814a29858ca8ea90f3c4aaac2c5c.js",
+  "precache-manifest.b2c3878fa7244db90f41e7d11122f505.js": "./precache-manifest.b2c3878fa7244db90f41e7d11122f505.js",
   "service-worker.js": "./service-worker.js"
 }
