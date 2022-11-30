@@ -212,12 +212,12 @@ self.__precacheManifest = [
     "url": "timboyuen.com/static/media/fa-brands-400.5063b105.eot"
   },
   {
-    "revision": "c5e0f14f88a828261ba01558ce2bf26f",
-    "url": "timboyuen.com/static/media/fa-brands-400.c5e0f14f.woff"
-  },
-  {
     "revision": "cccc9d29470e879e40eb70249d9a2705",
     "url": "timboyuen.com/static/media/fa-brands-400.cccc9d29.woff2"
+  },
+  {
+    "revision": "c5e0f14f88a828261ba01558ce2bf26f",
+    "url": "timboyuen.com/static/media/fa-brands-400.c5e0f14f.woff"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
