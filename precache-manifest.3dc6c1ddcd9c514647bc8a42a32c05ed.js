@@ -228,12 +228,12 @@ self.__precacheManifest = [
     "url": "timboyuen.com/static/media/fa-regular-400.c1a866ec.eot"
   },
   {
-    "revision": "c4f508e7c4f01a9eeba7f08155cde04e",
-    "url": "timboyuen.com/static/media/fa-regular-400.c4f508e7.woff"
-  },
-  {
     "revision": "f5f2566b93e89391da4db79462b8078b",
     "url": "timboyuen.com/static/media/fa-regular-400.f5f2566b.woff2"
+  },
+  {
+    "revision": "c4f508e7c4f01a9eeba7f08155cde04e",
+    "url": "timboyuen.com/static/media/fa-regular-400.c4f508e7.woff"
   },
   {
     "revision": "65b286af947c0d982ca01b40e1fcab38",
