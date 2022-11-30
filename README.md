@@ -20,7 +20,10 @@ To build
 `npm run build` for a production build into the ./build folder
 `npm run deploy` builds a production build and then pushes it to the gh-pages branch
 
-I updated the `npm run deploy` script found in package.json under scripts tag to automatically add in the CNAME file, which contains the domain name, into the build folder so that when I do a deploy, `timboyuen.com` will be saved to github pages custom domain instead of it being reset all the time.
+I updated the `npm run deploy` script found in package.json under scripts tag to automatically add in the CNAME file, which contains the domain name, into the build folder so that when I do a deploy, `timboyuen.com` will be saved to github pages custom domain instead of it being reset all the time. Specifically it looks like this, `"add-domain": "echo \"timboyuen.com\" > build/CNAME"`
+and then the calling script, when we do `npm run deploy` it will call this line `"deploy": "npm run add-domain && gh-pages -b gh-pages -d build"`.
+
+Now testing the production build in the local folder `./build`. We can use the command `http-server --push-state` inside the build folder. This command requires an install first by calling the following line, `sudo npm i spa-http-server -g`, which is -g a global install of npm package, -i is install.
 
 To convert SVG to JS files, use this helpful site `https://svg2jsx.com/`
 
