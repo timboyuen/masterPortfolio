@@ -2,7 +2,7 @@
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
 <hr/>
-<h1 align="center"> Modifications to template by Timbo Yuen</h1>
+<h1 align="center"> Personal Modifications to masterPortfolio by Timbo Yuen</h1>
 <hr/>
 
 # Installation Reminders
@@ -20,15 +20,15 @@ To build
 `npm run build` for a production build into the ./build folder
 `npm run deploy` builds a production build and then pushes it to the gh-pages branch
 
+I updated the `npm run deploy` script found in package.json under scripts tag to automatically add in the CNAME file, which contains the domain name, into the build folder so that when I do a deploy, `timboyuen.com` will be saved to github pages custom domain instead of it being reset all the time.
+
 To convert SVG to JS files, use this helpful site `https://svg2jsx.com/`
 
 # TODO:
 
 - Merge experience and education into one page. And uncollapse them. Then perhaps merge everything else onto home page, uncollapse them, allow other contact me as a button on home
-- Fix timboyuen.com and gh-pages (timboyuen.github.io)
-- Adsense (done)
-- Google Ads Tag
-- Google Analytics Tag
+- Add some fields for varying news about myself
+- Should have some area for discussion if needed or showcase what I am working on
 
 <hr/>
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
