@@ -16,24 +16,24 @@ self.__precacheManifest = [
     "url": "timboyuen.com/static/js/runtime~main.24b6ade3.js"
   },
   {
+    "revision": "21f233e19402cc4a66866a7f31191f0d",
+    "url": "timboyuen.com/static/media/Agustina.21f233e1.woff"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "timboyuen.com/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "4457817ac2b9993c65e81aa05828fe9c",
+    "url": "timboyuen.com/static/media/GoogleSans-Bold.4457817a.ttf"
   },
   {
     "revision": "90773b6158663ab0fe78b32680733677",
     "url": "timboyuen.com/static/media/GoogleSans-BoldItalic.90773b61.ttf"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "timboyuen.com/static/media/Agustina.21f233e1.woff"
-  },
-  {
     "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
     "url": "timboyuen.com/static/media/GoogleSans-Italic.0ecddcde.ttf"
-  },
-  {
-    "revision": "4457817ac2b9993c65e81aa05828fe9c",
-    "url": "timboyuen.com/static/media/GoogleSans-Bold.4457817a.ttf"
   },
   {
     "revision": "8d57e4014b18edef070d285746485115",
@@ -208,10 +208,6 @@ self.__precacheManifest = [
     "url": "timboyuen.com/static/media/ui_ux_design.d6363089.svg"
   },
   {
-    "revision": "cccc9d29470e879e40eb70249d9a2705",
-    "url": "timboyuen.com/static/media/fa-brands-400.cccc9d29.woff2"
-  },
-  {
     "revision": "5063b105c7646c8043d58c5289f02cca",
     "url": "timboyuen.com/static/media/fa-brands-400.5063b105.eot"
   },
@@ -220,16 +216,16 @@ self.__precacheManifest = [
     "url": "timboyuen.com/static/media/fa-brands-400.c5e0f14f.woff"
   },
   {
-    "revision": "c1a866ec0e04a5e1915b41fcf261457c",
-    "url": "timboyuen.com/static/media/fa-regular-400.c1a866ec.eot"
+    "revision": "cccc9d29470e879e40eb70249d9a2705",
+    "url": "timboyuen.com/static/media/fa-brands-400.cccc9d29.woff2"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
     "url": "timboyuen.com/static/media/fa-brands-400.06147b6c.ttf"
   },
   {
-    "revision": "65b286af947c0d982ca01b40e1fcab38",
-    "url": "timboyuen.com/static/media/fa-regular-400.65b286af.ttf"
+    "revision": "c1a866ec0e04a5e1915b41fcf261457c",
+    "url": "timboyuen.com/static/media/fa-regular-400.c1a866ec.eot"
   },
   {
     "revision": "f5f2566b93e89391da4db79462b8078b",
@@ -240,12 +236,16 @@ self.__precacheManifest = [
     "url": "timboyuen.com/static/media/fa-regular-400.c4f508e7.woff"
   },
   {
-    "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
-    "url": "timboyuen.com/static/media/fa-solid-900.8e4a6dcc.eot"
+    "revision": "65b286af947c0d982ca01b40e1fcab38",
+    "url": "timboyuen.com/static/media/fa-regular-400.65b286af.ttf"
   },
   {
     "revision": "e647ddbb6d95cb01deac07ffafb2a085",
     "url": "timboyuen.com/static/media/fa-regular-400.e647ddbb.svg"
+  },
+  {
+    "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
+    "url": "timboyuen.com/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
